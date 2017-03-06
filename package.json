@@ -1,0 +1,33 @@
+{
+  "name": "msbot",
+  "version": "1.0.0",
+  "description": "chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakerabbit/msbotbuildertest.git"
+  },
+  "keywords": [
+    "chat",
+    "bot"
+  ],
+  "author": "Mirko Justiniano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fakerabbit/msbotbuildertest/issues"
+  },
+  "homepage": "https://github.com/fakerabbit/msbotbuildertest#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "lorem-ipsum": "^1.0.3",
+    "node-uuid": "^1.4.7",
+    "request": "^2.79.0",
+    "restify": "^4.3.0",
+    "dotenv-extended": "^1.0.4"
+  }
+}
